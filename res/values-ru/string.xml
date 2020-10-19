@@ -698,4 +698,8 @@
     <string name="lockscreen_charging_animation_water">Вода</string>
     <string name="lockscreen_charging_animation_magic">Магия</string>
 
+    <!-- Quick settings on secure lockscreen -->
+    <string name="lockscreen_enable_qs_title">Быстрые настройки</string>
+    <string name="lockscreen_enable_qs_summary">Разрешить доступ к быстрым настройкам на защищенном экране блокировки</string>
+
 </resources>

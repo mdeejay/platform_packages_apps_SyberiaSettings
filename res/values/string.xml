@@ -751,4 +751,8 @@
     <string name="lockscreen_charging_animation_magic">Magic</string>
     <string name="lockscreen_charging_animation_syberia">Syberia</string>
 
+    <!-- Quick settings on secure lockscreen -->
+    <string name="lockscreen_enable_qs_title">Quick settings</string>
+    <string name="lockscreen_enable_qs_summary">Allow accessing quick settings on secure lockscreen</string>
+
 </resources>

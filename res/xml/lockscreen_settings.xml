@@ -56,6 +56,12 @@
         android:entryValues="@array/lockscreen_charging_animation_values"
         android:defaultValue="1" />
 
+    <com.syberia.settings.preference.SystemSettingSwitchPreference
+        android:key="lockscreen_enable_qs"
+        android:title="@string/lockscreen_enable_qs_title"
+        android:summary="@string/lockscreen_enable_qs_summary"
+        android:defaultValue="true" />
+
     <PreferenceCategory
         android:key="lockscreen_weather"
         android:title="@string/lockscreen_weather_category" />
